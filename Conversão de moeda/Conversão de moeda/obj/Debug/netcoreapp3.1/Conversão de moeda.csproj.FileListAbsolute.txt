@@ -1,0 +1,13 @@
+D:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Conversão de moeda\Conversão de moeda\Conversão de moeda\bin\Debug\netcoreapp3.1\Conversão de moeda.exe
+D:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Conversão de moeda\Conversão de moeda\Conversão de moeda\bin\Debug\netcoreapp3.1\Conversão de moeda.deps.json
+D:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Conversão de moeda\Conversão de moeda\Conversão de moeda\bin\Debug\netcoreapp3.1\Conversão de moeda.runtimeconfig.json
+D:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Conversão de moeda\Conversão de moeda\Conversão de moeda\bin\Debug\netcoreapp3.1\Conversão de moeda.runtimeconfig.dev.json
+D:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Conversão de moeda\Conversão de moeda\Conversão de moeda\bin\Debug\netcoreapp3.1\Conversão de moeda.dll
+D:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Conversão de moeda\Conversão de moeda\Conversão de moeda\bin\Debug\netcoreapp3.1\Conversão de moeda.pdb
+D:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Conversão de moeda\Conversão de moeda\Conversão de moeda\obj\Debug\netcoreapp3.1\Conversão de moeda.GeneratedMSBuildEditorConfig.editorconfig
+D:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Conversão de moeda\Conversão de moeda\Conversão de moeda\obj\Debug\netcoreapp3.1\Conversão de moeda.AssemblyInfoInputs.cache
+D:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Conversão de moeda\Conversão de moeda\Conversão de moeda\obj\Debug\netcoreapp3.1\Conversão de moeda.AssemblyInfo.cs
+D:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Conversão de moeda\Conversão de moeda\Conversão de moeda\obj\Debug\netcoreapp3.1\Conversão de moeda.csproj.CoreCompileInputs.cache
+D:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Conversão de moeda\Conversão de moeda\Conversão de moeda\obj\Debug\netcoreapp3.1\Conversão de moeda.dll
+D:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Conversão de moeda\Conversão de moeda\Conversão de moeda\obj\Debug\netcoreapp3.1\Conversão de moeda.pdb
+D:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Conversão de moeda\Conversão de moeda\Conversão de moeda\obj\Debug\netcoreapp3.1\Conversão de moeda.genruntimeconfig.cache
